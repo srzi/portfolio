@@ -183,13 +183,7 @@ p {
     }
 }
 
-.heading-primary em {
-    display: inline-block;  /* Forces the browser to recognize padding */
-    padding-top: 0.1em;     /* Frees the cropped tops of the letters */
-    padding-bottom: 0.1em;  /* Frees the cropped bottoms of the letters */
-    padding-right: 0.05em;  /* Prevents clipping on the right edge */
-    font-style: normal;     /* Standardizes layout constraints */
-}
+
 /* --------------------------------------- */
 /* ----- Buttons and Links ----- */
 /* --------------------------------------- */
